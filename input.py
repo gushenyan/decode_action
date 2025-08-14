@@ -7,7 +7,7 @@
 #   * 变量: lindong_XFKami 卡密变量
 #   * 可选变量(可不填)： lindong_XF_limit    最大运行金币量 默认 1500000
 #   * 可选变量(可不填)： lindong_XF_thread   最大线程数     默认 1
-#   * 需要安装依赖: py的 requests[socks]
+#   * 需要安装依赖1: py的 requests[socks]
 #   * 多号方式 [ 换行 | 新建同名变量 | & 分割 ]
 #   * 此版本更换玄学养号逻辑 自行判断哪个版本好用用哪个就行了
 #   * tg群组:https://t.me/+8_fGAq2BhF1iMzM1
